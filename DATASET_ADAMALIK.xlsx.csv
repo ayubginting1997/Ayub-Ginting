@@ -1,0 +1,113 @@
+No;Nama Sample;Jenis Kelamin;Umur;Tekanan Darah (TD);Heart Rate         (HR);Respiration Rate   (RR);Saturasi Oksigen (SpO2)
+1;M.Hut;Perempuan;62;122/66;132;36;83%
+2;D.Gin;Laki- Laki;43;103/10.8;145;14;98%
+3;SAH;Perempuan;60;105/71;110;20;98%
+4;M.SYA;Laki- Laki;31;97/74;97;32;99%
+5;A SIB;Laki- Laki;55;103/80;71;28;97%
+6;R ER;Perempuan;61;142/83;122;30;84%
+7;SA LU;Perempuan;37;123/78;87;24;99%
+8;ADA;Perempuan;44;134/89;112;20;97%
+9;SA Gin;Laki- Laki;77;124/85;75;14;97%
+10;EF IB;Laki- Laki;63;130/50;99;20;96%
+11;SUK;Laki- Laki;69;140/80;99;24;97%
+12;SUB;Laki- Laki;51;130/90;70;20;98%
+13; RO Gin;Laki- Laki;45;200/120;75;30;98%
+14;AS RI;Laki- Laki;58;200/135;104;32;91%
+15;HAZ RO;Perempuan;27;108/62;112;32;95%
+16;SAH NAP;Laki- Laki;65;120/70;50;20;97%
+17;MA EL;Laki- Laki;6;-;72;20;92%
+18;MU HA;Laki- Laki;18;110/70;84;20;99%
+19;BU SI;Laki- Laki;66;124/70;71;20;97%
+20;SU PER;Perempuan;67;156/101;98;18;98%
+21;HI SIM;Laki- Laki;70;157/67;75;18;96%
+22;DE BA;Perempuan;30;98/55;120;22;95%
+23; HE SI;Laki- Laki;53;133/73;63;20;98%
+24;JOH;Laki- Laki;57;100/60;120;40;98%
+25;WIN;Perempuan;32;130/80;76;22;98%
+26;NE WI;Perempuan;59;145/85;102;26;97%
+27;RO J;Laki- Laki;72;110/70;97;30;88%
+28;PI AD;Laki- Laki;51;110/70;103;24;85%
+29;RI WI;Laki- Laki;35;102/70;78;20;94%
+30;SR RA;Perempuan;22;130/80;78;24;98%
+31;WI S;Laki- Laki;36;123/70;79;19;96%
+32;JU SI ;Laki- Laki;47;130/80;89;22;99%
+33;GU;Laki- Laki;56;153/80;83;22;98%
+34;H SY;Laki- Laki;66;165/81;90;32;93%
+35;RE TA;Perempuan;70;144/108;73;20;99%
+36; AN NA;Laki- Laki;71;159/98;79;29;88%
+37;SA HE;Perempuan;31;120/80;82;24;93%
+38;YA ZU;Laki- Laki;45;114/70;98;28;65%
+39;KH HA;Perempuan;61;147/77;88;26;94%
+40;PA PU;Perempuan;54;130/85;100;28;75%
+41;ASB;Perempuan;52;87/65;90;15;64%
+42;KA SI;Perempuan;37;109/60;88;20;98%
+43;AN ZE;Laki- Laki;51;130/70;90;20;78%
+44;EM RO;Perempuan;64;123/71;98;20;96%
+45;MU IS;Laki- Laki;32;124/77;82;20;98%
+46;RU TI;Laki- Laki;48;130/80;102;18;98%
+47;SU MU;Laki- Laki;58;138/78;78;20;74%
+48;NE BA;Perempuan;50;139/77;113;20;99%
+49;MU HA;Laki- Laki;21;120/80;92;24;98%
+50;RE HI;Perempuan;71;168/94;88;28;96%
+51;ED SA;Laki- Laki;62;148/99;125;36;80%
+52;DU ZA;Laki- Laki;51;203/98;104;32;89%
+53;UF NU;Perempuan;7;100/70;100;20;97%
+54;FI NO;Perempuan;5 Bulan;-;120;30;99%
+55;BY NY;Perempuan;1 Bulan;-;136;32;97%
+56;HJ RU;Perempuan;75;131/79;100;32;38%
+57;CI;Perempuan;47;110/70;100;20;98%
+58;HA AM;Laki- Laki;58;110/70;105;26;65%
+59;ED SA;Laki- Laki;59;152/90;110;18;96%
+60;DE AN;Perempuan;32;118/70;90;20;97%
+61;IT PA;Perempuan;38;-;147;40;90%
+62;ED SO;Laki- Laki;57;79/42;54;28;92%
+63;BY AN PU;Perempuan;1 Hari;-;130;36;97%
+64;SU HA;Perempuan;45;114/52;56;28;66%
+65;MU;Perempuan;34;130/80;100;20;99%
+66; MA HA;Perempuan;38;118/63;94;20;97%
+67;MA PI;Perempuan;65;168/110;102;26;99%
+68;BE MA;Laki- Laki;38;107/67;93;20;96%
+69;AB NA;Laki- Laki;62;100/45;127;24;93%
+70;AZ NA ;Laki- Laki;55;161/91;88;24;98%
+71;NO;Laki- Laki;55;130/80;110;30;57%
+72;TO CH;Laki- Laki;36;130/89;89;20;99%
+73;NU DE;Perempuan;18;143/72;106;26;82%
+74;AS;Perempuan;58;160/79;118;22;94%
+75;TO SI;Laki- Laki;50;154/90;98;20;88%
+76;HE CH;Perempuan;31;126/73;98;24;99%
+77;M H;Laki- Laki;51;130/80;80;24;96%
+78;MA HE;Perempuan;39;150/70;106;22;97%
+79;TU ;Perempuan;50;142/80;100;20;99%
+80;RO PA;Laki- Laki;37;144/83;75;20;98%
+81;SO AH;Laki- Laki;81;120/70;90;20;92%
+82;LI AP;Perempuan;63;117/42;88;24;94%
+83;HE SI;Laki- Laki;52;130/80;83;24;98%
+84;H BU;Laki- Laki;73;142/67;115;24;95%
+85;PO TA;Laki- Laki;78;129/60;68;22;99%
+86;RA SE;Laki- Laki;44;130/70;86;16;99%
+87;PI AR;Laki- Laki;70;146/93;103;30;94%
+88; SA KA;Laki- Laki;55;138/81;84;20;96%
+89;SU;Laki- Laki;51;140/80;84;22;94%
+90;LI SE;Perempuan;53;154/73;82;20;98%
+91;AR ;Perempuan;70;150/80;82;18;93%
+92;GU SA;Laki- Laki;62;162/80;120;38;95%
+93;LU SI;Perempuan;55;121/68;85;20;99%
+94;RI JU;Perempuan;40;125/70;112;22;97%
+95;GA SI;Laki- Laki;67;135/75;80;28;89%
+96;DI SO;Laki- Laki;79;110/70;86;20;97%
+97;HO PA;Laki- Laki;51;140/90;102;28;64%
+98;ID MA;Perempuan;49;120/60;97;22;99%
+99;KA SE;Laki- Laki;53;136/73;78;19;98%
+100;ED NA;Laki- Laki;57;148/95;105;28;99%
+101;RE RA;Laki- Laki;28;130/70;110;28;96%
+102;SA AR;Laki- Laki;62;161/90;89;24;99%
+103;RAH;Perempuan;44;126/84;104;22;96%
+104;MI BA;Perempuan;51;134/61;70;20;99%
+105;MA TU;Laki- Laki;46;120/61;88;20;98%
+106;KH LU;Laki- Laki;60;139/79;98;22;87%
+107;;;;;;;
+108;;;;;;;
+109;;;;;;;
+110;;;;;;;
+111;;;;;;;
+112;;;;;;;
